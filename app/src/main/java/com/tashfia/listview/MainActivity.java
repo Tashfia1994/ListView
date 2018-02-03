@@ -11,7 +11,7 @@ import android.widget.ListView;
 public class MainActivity extends AppCompatActivity {
 
     ListView listView;
-    String countryName[]={"Bangladesh","India","Pakistan","Australia","New Zeland","USA","UK","Bangladesh","India","Pakistan","Australia","New Zeland","USA","UK"};
+    String countryName[]={"Bangladesh","India","Pakistan","Australia","New Zeland","USA","UK","Bangladesh","India","Pakistan","Australia","USA","UK"};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
